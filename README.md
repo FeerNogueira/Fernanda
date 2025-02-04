@@ -13,7 +13,7 @@
   Linguagem de programação: C# e Java<br>
   Ferramentas: Git, Github, Visual Studio
 </div> 
-<div>
+<div><br>
   #Area de Interesse<br>
   Desemcolvimento de Software<br>
 </div>
